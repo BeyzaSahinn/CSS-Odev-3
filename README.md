@@ -1,0 +1,1 @@
+Google homepage incelenerek ve CSS kullanilarak olusturulmaya calisildi.
